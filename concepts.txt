@@ -1,0 +1,28 @@
+Networking 
+
+Today I learned the following key networking concepts:
+
+1. Domain Name:
+ A domain name is the easy-to-remember name of a website (example: google.com).
+ It translates human-friendly names into machine-friendly IP addresses.
+ Without domain names, users would have to memorize complex IP addresses.
+
+2. IP Address (Internet Protocol Address):
+ An IP address is the real digital address of a device on the internet.
+ It consists of a set of numbers (example: 192.168.1.1).
+ Each device connected to a network is assigned a unique IP address for identification and communication.
+
+3. MAC Address (Media Access Control Address):
+ A MAC address is the permanent, physical address of a device’s network card.
+ It is a unique identifier set by the device manufacturer (example: 00:1B:44:11:3A:B7).
+ MAC addresses operate within a local network and do not change over time.
+
+4. Routing:
+ Routing is the process of selecting the best path for data to travel across networks.
+ Routers are responsible for directing data packets to their correct destinations.
+ Efficient routing ensures faster and accurate delivery of data.
+
+Conclusion:
+Today’s learning provided a clear understanding of how domain names, IP addresses, MAC addresses, and routing work together to make communication over the internet possible. Attached is a visual diagram for better understanding.
+
+- End of Notes -
